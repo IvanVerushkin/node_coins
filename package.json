@@ -1,0 +1,19 @@
+{
+  "name": "node_coins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IvanVerushkin/node_coins.git"
+  },
+  "author": "Ivan Verushkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanVerushkin/node_coins/issues"
+  },
+  "homepage": "https://github.com/IvanVerushkin/node_coins#readme",
+  "description": ""
+}
